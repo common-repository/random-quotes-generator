@@ -1,0 +1,11 @@
+{
+  "name": "random-quotes-generator/random-quotes-generator-block",
+  "title": "Random quotes generator",
+  "description": "A block for displaying random quotes for every user",
+  "keywords": [ "quotes", "random", "famous" ],
+  "category": "text",
+  "editorScript": "file:./build/index.js",
+  "editorStyle": "file:./style.css",
+  "style": "file:./style.css",
+  "script": "file:./build/index.js"
+}

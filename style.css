@@ -1,0 +1,11 @@
+.random-quotes-blockquote {
+    max-width: 90%;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-size: 20px;
+    color: #428bca;
+    border-top: 4px dotted #428bca;
+    border-bottom: 4px dotted #428bca;
+}
